@@ -1,0 +1,1 @@
+from .loanClassificationRouter import inference_router
